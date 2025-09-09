@@ -42,7 +42,7 @@
 ---
 
 ## 📬 Get in Touch  
-- ✉️ Email: **agyat192@gmail.com**  
+- ✉️ Email: **snlbokare@gmail.com**  
 - 💼 LinkedIn: linkedin.com/in/sunilbokare 
 - 🌐 Portfolio Website: sunilbokare.bhoomivardhan.com
 
