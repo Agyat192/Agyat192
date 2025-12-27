@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Tech Skills  
-- **Languages:** C, C++, Python, Dart, TypeScript, JavaScript  
+- **Languages:** C, C++, Python, Dart, TypeScript, JavaScript, Flutter, GO, 
 - **Frameworks & Tools:** Node.js, Express.js, Firebase, Flutter, React  
 - **Cybersecurity & Networking:** Cisco CyberOps, Ethical Hacking Basics, Secure Protocols  
 - **Embedded & IoT:** Arduino, ESP32, GSM Modules, Sensors, Piezoelectric Systems  
