@@ -44,7 +44,7 @@
 ## 📬 Get in Touch  
 - ✉️ Email: **snlbokare@gmail.com**  
 - 💼 LinkedIn: linkedin.com/in/sunilbokare 
-- 🌐 Portfolio Website: sunilbokare.bhoomivardhan.com
+- 🌐 Portfolio Website: sunilbokare.in
 
 ---
 
